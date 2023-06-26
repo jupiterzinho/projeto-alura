@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 80px 0;
+    padding: 80 px 0;
 }
 
 .cabecalho-imagem{
@@ -21,8 +21,8 @@ body {
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 26px;
-    font-size: 16px;
+    margin: 0 26 px;
+    font-size: 16 px;
 }
 
 .escola-imagem{
@@ -35,7 +35,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px 0;
+    padding: 10 px 0;
 }
 
 .escola-div-conteudo{
@@ -77,17 +77,16 @@ body {
 }
 
 .rodape{
-    background-color: rgb(500, 0, 350);
+    background-color: rgb(1000, 0, 600);
     text-align: center;
 }
 
 .mousses 2 {
-    height: 90px;
-    width: 200px;
-   
+    height= 90px;
+    width= 200px;                                              
 }
 
 .mousse1 {
-    height: 90px;
-    width: 200px;
+    height= 90px;
+    width= 200px;
 }
